@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/josecelsodelucas2-hub/lab-natty-or-not/blob/main/cap-ebook.png" width="400">
+</p>
+
 # 🚀 O Futuro do Trabalho: Como a IA vai Transformar os Empregos  
 
 Projeto desenvolvido para o desafio **Natty or Not - DIO**.
